@@ -2,6 +2,8 @@
 
 A small React app built to practice using the major React hooks in a real project. The app lets users add habits, mark them complete, delete them, and track how many habits are finished. { useState(), useEffect(), useMemo(), useRef(), useCallback }
 
+**[🚀 Try the Live Demo](https://web-habit-tracker.vercel.app)** 
+
 ## Project goal
 
 This project was created as a learning exercise to demonstrate how core React hooks are used together in a simple but functional application.
